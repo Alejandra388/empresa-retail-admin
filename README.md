@@ -6,7 +6,7 @@
 
 Este proyecto contiene la implementación y administración de la base de datos **empresa_retail**, incluyendo el modelo relacional, la gestión de usuarios y permisos, la automatización de procesos mediante procedimientos almacenados y la validación del correcto funcionamiento de la solución.
 
-## 📂 Contenido del proyecto
+## Contenido del proyecto
 
 | Componente | Descripción |
 |---|---|
