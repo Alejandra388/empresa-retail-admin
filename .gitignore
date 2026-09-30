@@ -1,0 +1,24 @@
+# Archivos de bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Respaldos
+*.bak
+*.backup
+*.dump
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Credenciales
+.env
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
