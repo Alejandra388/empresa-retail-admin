@@ -19,7 +19,7 @@ Este proyecto contiene la implementación y administración de la base de datos 
 
 1. Clonar el repositorio:
 ```bash
-   git clone https://github.com/TU_USUARIO/empresa-retail-admin.git
+   git clone https://github.com/Alejandra388/empresa-retail-admin.git
 ```
 2. Cambiar a la rama de desarrollo:
 ```bash
